@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url('https://images.pexels.com/photos/1028725/pexels-photo-1028725.jpeg');
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+/*  social media button */
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 30%;
+  
+}
+  
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+  
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+
+#a {
+     font-size:10pt;
+     height:30px;
+     width:200px;
+}
+
+#b {
+    font-size:10pt;
+    height:30px;
+    width:200px;
+}
+
+.bless {
+    color:MediumSeaGreen;
+    border:2px solid Violet;
+    border-radius: 8px; 
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+h1 {
+    color:Tomato;
+    border:2px solid DodgerBlue;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    border-radius: 8px; 
+    /* background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.0)); */
+    background-color: rgba(255, 255, 255, .4);
+}
+
+p {
+    /* background-color: white; */
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Fredoka One', cursive;
+    font-weight: initial;
+    border-radius: 8px; 
+    background-color: rgba(255, 255, 255, .4);
+}
+
+
+.b1 {
+    background-color: forestgreen;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    font-size: 24px;
+    
+}
+
+
+.fill {
+    display: block;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding: 10px 10px 15px 15px;
+    color: #ff663a;
+    border-radius: 25px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 24px;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+
+}
+
+
+.footer-container p {
+    font-size:16px;
+    color: blue;
+    /* font-weight:bold; */
+    font-style:italic;
+}
+
+mark.red {
+    color:black;
+    background: none;
+}
